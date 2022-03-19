@@ -1,0 +1,22 @@
+{
+    "name": "runscripts",
+    "version": "1.0.0",
+    "description": "Run user created scripts in Modal File Manager.",
+    "main": "runScripts.js",
+    "scripts":
+    {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords":
+    [],
+    "author": "Richard Guay",
+    "license": "MIT",
+    "mfmextension":
+    {
+        "name": "runScripts",
+        "description": "Run user created scripts.",
+        "type": 0,
+        "github": "",
+        "main": "runScripts.js"
+    }
+}
